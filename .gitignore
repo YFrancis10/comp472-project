@@ -1,0 +1,7 @@
+venv/
+models/__pycache__/
+data/cifar-10-python.tar.gz
+
+# Files exceeding 100MB
+saved_models/vgg11_base.pth
+saved_models/vgg11_large_kernel.pth
